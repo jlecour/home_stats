@@ -1,7 +1,7 @@
 # Home Stats
 
-I regularly check on my power and water consumption (every few days/weeks).
-It gives me insight about the way I consume (costly) resources.
+I semi-regularly check on my power and water consumption (by looking at the meters as I don't have an automated way).
+It gives me insight about the way I consume (expensive) resources.
 
 After a few years of plotting them in a spreadsheet, I've made the leap to [Elasticsearch](http://elasticsearch.org/overview/elasticsearch/) (for storage and query) and [Kibana](http://elasticsearch.org/overview/kibana/) (for visualization).
 
