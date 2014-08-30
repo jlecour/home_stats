@@ -1,0 +1,1065 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "June 26, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "26",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on June 26, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "26",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"8.0", "dewpti":"46.4","hum":"46","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 262200Z 32010KT CAVOK 20/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:30 PM GMT on June 26, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "26",
+		"hour": "22",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"19.0", "tempi":"66.2","dewptm":"7.0", "dewpti":"44.6","hum":"46","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 262230Z 32009KT CAVOK 19/07 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on June 26, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "26",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"19.0", "tempi":"66.2","dewptm":"7.0", "dewpti":"44.6","hum":"46","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"330","wdire":"NNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 262300Z 33010KT CAVOK 19/07 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "01",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:30 PM GMT on June 26, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "26",
+		"hour": "23",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"19.0", "tempi":"66.2","dewptm":"7.0", "dewpti":"44.6","hum":"46","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"330","wdire":"NNW","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 262330Z AUTO 33009KT 9999 NSC 19/07 Q1020" },
+		{
+		"date": {
+		"pretty": "2:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"18", "tempi":"64","dewptm":"7", "dewpti":"45","hum":"38","wspdm":"7.4", "wspdi":"4.6","wgustm":"", "wgusti":"","wdird":"20","wdire":"NNE","vism":"60", "visi":"37","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 27004 07650 04986 /0204 10180 20071 30170 40208 50001 60001 700// 333 4/000 60007 90710 91114 555 60005" },
+		{
+		"date": {
+		"pretty": "2:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"18.0", "tempi":"64.4","dewptm":"7.0", "dewpti":"44.6","hum":"49","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270000Z AUTO 02004KT 9999 NSC 18/07 Q1020" },
+		{
+		"date": {
+		"pretty": "2:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "02",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"350","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270030Z AUTO 35008KT 9999 NSC 17/07 Q1020" },
+		{
+		"date": {
+		"pretty": "3:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"340","wdire":"NNW","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270100Z AUTO 34004KT 9999 NSC 17/07 Q1020" },
+		{
+		"date": {
+		"pretty": "3:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "03",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "01",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270130Z AUTO 02004KT 340V040 9999 NSC 17/07 Q1020" },
+		{
+		"date": {
+		"pretty": "4:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "04",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"7.0", "dewpti":"44.6","hum":"63","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270200Z AUTO 02006KT 9999 NSC 14/07 Q1020" },
+		{
+		"date": {
+		"pretty": "4:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "04",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "02",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"360","wdire":"North","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Unknown","icon":"unknown","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270230Z AUTO 36007KT 9999 NSC 17/07 Q1020" },
+		{
+		"date": {
+		"pretty": "5:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"350","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270300Z 35007KT CAVOK 17/07 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "05",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "03",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"8.0", "dewpti":"46.4","hum":"55","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"350","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270330Z 35007KT CAVOK 17/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"8.0", "dewpti":"46.4","hum":"55","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"360","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270400Z 36008KT CAVOK 17/08 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "06",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "04",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"7.0", "dewpti":"44.6","hum":"55","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"10","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270430Z 01006KT CAVOK 16/07 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"7.0", "dewpti":"44.6","hum":"59","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"340","wdire":"NNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1021", "pressurei":"30.15","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270500Z 34004KT 310V010 CAVOK 15/07 Q1021 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "07",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "05",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"8.0", "dewpti":"46.4","hum":"55","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"350","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270530Z 35006KT 310V010 CAVOK 17/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"18", "tempi":"64","dewptm":"7", "dewpti":"45","hum":"39","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"350","wdire":"North","vism":"60", "visi":"37","pressurem":"1021", "pressurei":"30.14","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 27064 07650 02986 33506 10175 20072 30169 40207 50000 60002 80002 333 10242 20142 30012 55141 60007 70000 83070 90710 91110 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "8:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"18.0", "tempi":"64.4","dewptm":"8.0", "dewpti":"46.4","hum":"52","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"360","wdire":"North","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270600Z 36006KT CAVOK 18/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "08",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "06",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"18.0", "tempi":"64.4","dewptm":"8.0", "dewpti":"46.4","hum":"52","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"340","wdire":"NNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270630Z 34007KT 270V360 CAVOK 18/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"19.0", "tempi":"66.2","dewptm":"8.0", "dewpti":"46.4","hum":"49","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"330","wdire":"NNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270700Z 33009KT CAVOK 19/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "09",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "07",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"8.0", "dewpti":"46.4","hum":"46","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270730Z 32007KT 300V010 CAVOK 20/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"8.0", "dewpti":"46.4","hum":"43","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270800Z 31005KT 280V350 CAVOK 21/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "10",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "08",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"9.0", "dewpti":"48.2","hum":"46","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270830Z 32008KT CAVOK 21/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "11",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"9.0", "dewpti":"48.2","hum":"43","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270900Z 31011KT CAVOK 22/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:30 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "11",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "09",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"9.0", "dewpti":"48.2","hum":"41","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 270930Z 30011KT CAVOK 23/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "10",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"8.0", "dewpti":"46.4","hum":"38","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271000Z 31010KT CAVOK 23/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "12",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "10",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"9.0", "dewpti":"48.2","hum":"38","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271030Z 32010KT CAVOK 24/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"9.0", "dewpti":"48.2","hum":"36","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271100Z 32010KT CAVOK 25/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "13",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:30 AM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "11",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"9.0", "dewpti":"48.2","hum":"36","wspdm":"24.1", "wspdi":"15.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271130Z 30013KT CAVOK 25/09 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25", "tempi":"77","dewptm":"8", "dewpti":"47","hum":"24","wspdm":"27.8", "wspdi":"17.3","wgustm":"", "wgusti":"","wdird":"300","wdire":"WNW","vism":"60", "visi":"37","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 27124 07650 02686 73015 10249 20084 30162 40199 58004 60001 81232 333 60007 81846 87075 90710 91118 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "2:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"9.0", "dewpti":"48.2","hum":"36","wspdm":"27.8", "wspdi":"17.3","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"10.0", "visi":"6.2","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271200Z 30015KT 9999 FEW046 BKN250 25/09 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "14",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "12",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"8.0", "dewpti":"46.4","hum":"36","wspdm":"25.9", "wspdi":"16.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"10.0", "visi":"6.2","pressurem":"1020", "pressurei":"30.12","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271230Z 31014KT 9999 FEW046 BKN250 24/08 Q1020 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"9.0", "dewpti":"48.2","hum":"38","wspdm":"25.9", "wspdi":"16.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"10.0", "visi":"6.2","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271300Z 31014KT 9999 FEW046 BKN250 24/09 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "15",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "13",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"8.0", "dewpti":"46.4","hum":"34","wspdm":"27.8", "wspdi":"17.3","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"300","wdire":"WNW","vism":"10.0", "visi":"6.2","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271330Z 30015KT 9999 FEW046 BKN250 25/08 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"8.0", "dewpti":"46.4","hum":"36","wspdm":"27.8", "wspdi":"17.3","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"10.0", "visi":"6.2","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271400Z 32015KT 9999 FEW046 BKN250 24/08 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "16",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "14",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"9.0", "dewpti":"48.2","hum":"36","wspdm":"29.6", "wspdi":"18.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271430Z 31016KT CAVOK 25/09 Q1019 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"8.0", "dewpti":"46.4","hum":"34","wspdm":"35.2", "wspdi":"21.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271500Z 32019KT CAVOK 25/08 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "17",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "15",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"8.0", "dewpti":"46.4","hum":"34","wspdm":"37.0", "wspdi":"23.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271530Z 31020KT CAVOK 25/08 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"25.0", "tempi":"77.0","dewptm":"6.0", "dewpti":"42.8","hum":"29","wspdm":"38.9", "wspdi":"24.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271600Z 32021KT CAVOK 25/06 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "18",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "16",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"7.0", "dewpti":"44.6","hum":"34","wspdm":"40.7", "wspdi":"25.3","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271630Z 31022KT CAVOK 24/07 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "17",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"7.0", "dewpti":"44.6","hum":"34","wspdm":"44.4", "wspdi":"27.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271700Z 32024KT CAVOK 24/07 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "19",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "17",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"24.0", "tempi":"75.2","dewptm":"7.0", "dewpti":"44.6","hum":"34","wspdm":"44.4", "wspdi":"27.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271730Z 32024KT CAVOK 24/07 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23", "tempi":"74","dewptm":"6", "dewpti":"44","hum":"23","wspdm":"46.3", "wspdi":"28.8","wgustm":"", "wgusti":"","wdird":"320","wdire":"NW","vism":"60", "visi":"37","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 27184 07650 02986 33225 10232 20065 30141 40178 55006 60002 80002 333 10255 20174 60007 83075 91036 90710 91138 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "8:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"7.0", "dewpti":"44.6","hum":"36","wspdm":"46.3", "wspdi":"28.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271800Z 32025KT CAVOK 23/07 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "20",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "18",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"23.0", "tempi":"73.4","dewptm":"6.0", "dewpti":"42.8","hum":"33","wspdm":"46.3", "wspdi":"28.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271830Z 32025KT CAVOK 23/06 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"7.0", "dewpti":"44.6","hum":"38","wspdm":"38.9", "wspdi":"24.2","wgustm":"63.0", "wgusti":"39.1","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1017", "pressurei":"30.04","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271900Z 32021G34KT CAVOK 22/07 Q1017 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "21",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "19",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"22.0", "tempi":"71.6","dewptm":"7.0", "dewpti":"44.6","hum":"38","wspdm":"31.5", "wspdi":"19.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 271930Z 31017KT CAVOK 22/07 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"8.0", "dewpti":"46.4","hum":"43","wspdm":"35.2", "wspdi":"21.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 272000Z 32019KT CAVOK 21/08 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:45 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "22",
+		"min": "45",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:45 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "20",
+		"min": "45",
+		"tzname": "UTC"
+		},
+		"tempm":"21.0", "tempi":"69.8","dewptm":"7.0", "dewpti":"44.6","hum":"40","wspdm":"35.2", "wspdi":"21.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"320","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1018", "pressurei":"30.06","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 272045Z 32019KT CAVOK 21/07 Q1018 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:30 PM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "23",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:30 PM GMT on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "21",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"20.0", "tempi":"68.0","dewptm":"7.0", "dewpti":"44.6","hum":"43","wspdm":"37.0", "wspdi":"23.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"310","wdire":"NW","vism":"-9999.0", "visi":"-9999.0","pressurem":"1019", "pressurei":"30.09","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 272130Z 31020KT CAVOK 20/07 Q1019 NOSIG" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 AM CEST on June 27, 2013",
+		"year": "2013",
+		"mon": "06",
+		"mday": "27",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"fog":"0","rain":"0","snow":"0","snowfallm":"", "snowfalli":"","monthtodatesnowfallm":"", "monthtodatesnowfalli":"","since1julsnowfallm":"", "since1julsnowfalli":"","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"0","tornado":"0","meantempm":"20", "meantempi":"67","meandewptm":"8", "meandewpti":"46","meanpressurem":"1019.39", "meanpressurei":"30.10","meanwindspdm":"18", "meanwindspdi":"11","meanwdire":"NNW","meanwdird":"328","meanvism":"10.0", "meanvisi":"6.2","humidity":"42","maxtempm":"25", "maxtempi":"77","mintempm":"14", "mintempi":"57","maxhumidity":"63","minhumidity":"23","maxdewptm":"9", "maxdewpti":"48","mindewptm":"6", "mindewpti":"43","maxpressurem":"1021", "maxpressurei":"30.15","minpressurem":"1017", "minpressurei":"30.04","maxwspdm":"46", "maxwspdi":"29","minwspdm":"7", "minwspdi":"5","maxvism":"10.0", "maxvisi":"6.2","minvism":"10.0", "minvisi":"6.2","gdegreedays":"17","heatingdegreedays":"0","coolingdegreedays":"2","precipm":"0.0", "precipi":"0.00","precipsource":"3Or6HourObs","heatingdegreedaysnormal":"","monthtodateheatingdegreedays":"","monthtodateheatingdegreedaysnormal":"","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"","since1julheatingdegreedaysnormal":"","coolingdegreedaysnormal":"","monthtodatecoolingdegreedays":"","monthtodatecoolingdegreedaysnormal":"","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"","since1jancoolingdegreedaysnormal":"" }
+		]
+	}
+}

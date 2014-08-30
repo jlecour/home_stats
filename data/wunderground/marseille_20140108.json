@@ -1,0 +1,1465 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "January 8, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "January 7, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "07",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on January 07, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "07",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"53","dewptm":"9", "dewpti":"48","hum":"78","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"50","wdire":"NE","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 07234 07650 22582 70506 10118 20090 30209 40248 51003 82502 333 60005 82623 86076 90710 91109 93100" },
+		{
+		"date": {
+		"pretty": "12:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 PM GMT on January 07, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "07",
+		"hour": "23",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 072300Z 06006KT 9999 FEW023 BKN260 12/09 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:30 PM GMT on January 07, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "07",
+		"hour": "23",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 072330Z AUTO 07006KT 9999 FEW023 BKN030 BKN036 12/09 Q1024" },
+		{
+		"date": {
+		"pretty": "1:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"49","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.26","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08004 07650 04582 80706 10123 20093 30207 40246 57002 60001 700// 333 4//// 60007 90710 91108 555 60005" },
+		{
+		"date": {
+		"pretty": "1:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080000Z AUTO 07006KT 9999 SCT029 OVC140 12/09 Q1024" },
+		{
+		"date": {
+		"pretty": "1:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"10.0", "dewpti":"50.0","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080030Z AUTO 07006KT 9999 SCT022 BKN028 OVC150 13/10 Q1024" },
+		{
+		"date": {
+		"pretty": "2:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"49","hum":"77","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"40", "visi":"25","pressurem":"1024", "pressurei":"30.25","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08014 07650 24582 70705 10123 20093 30204 40243 58003 700// 333 60005 90710 91110" },
+		{
+		"date": {
+		"pretty": "2:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080100Z AUTO 07005KT 9999 SCT022 SCT028 BKN150 12/09 Q1024" },
+		{
+		"date": {
+		"pretty": "2:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "01",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080130Z AUTO 07005KT 9999 FEW024 BKN150 12/09 Q1024" },
+		{
+		"date": {
+		"pretty": "3:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"48","hum":"75","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"90","wdire":"East","vism":"45", "visi":"28","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08024 07650 24583 70906 10123 20091 30210 40249 53001 700// 333 60005 90710 91111" },
+		{
+		"date": {
+		"pretty": "3:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080200Z AUTO 09006KT 9999 BKN026 12/09 Q1024" },
+		{
+		"date": {
+		"pretty": "3:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "02",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080230Z AUTO VRB03KT 9999 SCT028 12/09 Q1025" },
+		{
+		"date": {
+		"pretty": "4:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11", "tempi":"52","dewptm":"8", "dewpti":"47","hum":"78","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"20","wdire":"NNE","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08034 07650 22582 70205 10112 20084 30214 40253 53007 8353/ 333 60007 81626 83635 85365 90710 91108 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "4:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"20","wdire":"NNE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080300Z 02005KT 9999 FEW026 SCT035 BKN150 11/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "03",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"9.0", "dewpti":"48.2","hum":"88","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080330Z 04005KT 9999 FEW026 SCT040 BKN150 11/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"53","dewptm":"9", "dewpti":"48","hum":"78","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"80","wdire":"East","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08044 07650 22582 70805 10116 20090 30213 40252 50009 8353/ 333 60005 81626 83636 85363 90710 91110 93100" },
+		{
+		"date": {
+		"pretty": "5:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080400Z 07005KT 9999 FEW026 SCT036 BKN130 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "04",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"9.0", "dewpti":"48.2","hum":"88","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080430Z 13006KT 9999 FEW026 BKN040 11/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11", "tempi":"52","dewptm":"8", "dewpti":"47","hum":"78","wspdm":"5.6", "wspdi":"3.5","wgustm":"", "wgusti":"","wdird":"100","wdire":"East","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08054 07650 22682 51003 10110 20084 30213 40252 51003 83532 333 60005 83640 90710 91111 93100" },
+		{
+		"date": {
+		"pretty": "6:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"9.0", "dewpti":"48.2","hum":"88","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"110","wdire":"ESE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080500Z 11004KT 9999 SCT040 11/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "05",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080530Z 06004KT 030V100 9999 SCT040 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11", "tempi":"52","dewptm":"8", "dewpti":"47","hum":"79","wspdm":"14.8", "wspdi":"9.2","wgustm":"", "wgusti":"","wdird":"60","wdire":"ENE","vism":"40", "visi":"25","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08064 07650 02682 40608 10109 20085 30213 40252 56001 60002 82532 333 10131 20108 30009 55001 60007 70000 82636 90710 91111 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "7:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080600Z 06008KT 9999 FEW036 11/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "06",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080630Z 07006KT 9999 SCT026 11/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11", "tempi":"52","dewptm":"9", "dewpti":"48","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"70","wdire":"ENE","vism":"40", "visi":"25","pressurem":"1026", "pressurei":"30.29","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08074 07650 22582 70706 10113 20089 30217 40256 53004 878// 333 60005 83825 86631 90710 91113 93100" },
+		{
+		"date": {
+		"pretty": "8:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"9.0", "dewpti":"48.2","hum":"88","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080700Z 07006KT 9999 SCT025 BKN031 11/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "07",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080730Z 06006KT 9999 SCT025 BKN031 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"53","dewptm":"9", "dewpti":"48","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"80","wdire":"East","vism":"40", "visi":"25","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08084 07650 22582 70806 10116 20088 30222 40261 53009 878// 333 60005 83823 86631 90710 91110 93100" },
+		{
+		"date": {
+		"pretty": "9:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080800Z 08006KT 9999 SCT023 BKN031 12/09 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "08",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080830Z 07006KT 9999 SCT021 BKN031 12/09 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"49","hum":"76","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"80","wdire":"East","vism":"40", "visi":"25","pressurem":"1027", "pressurei":"30.32","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08094 07650 22582 70806 10122 20092 30227 40266 53014 878// 333 60007 83821 86631 90710 91110 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "10:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "10",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080900Z 08006KT 9999 SCT021 BKN031 12/09 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "10",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "09",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 080930Z 07006KT 9999 SCT021 BKN031 12/09 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "11",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "10",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1027", "pressurei":"30.33","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081000Z 06007KT 9999 SCT021 SCT031 14/10 Q1027 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:30 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "11",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "10",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081030Z 07006KT 9999 BKN021 14/10 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"58","dewptm":"10", "dewpti":"50","hum":"66","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"50","wdire":"NE","vism":"40", "visi":"25","pressurem":"1027", "pressurei":"30.32","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08114 07650 22582 60505 10145 20099 30228 40267 50006 85802 333 60005 85823 83075 90710 91110 93100" },
+		{
+		"date": {
+		"pretty": "12:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:00 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "11",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081100Z 05006KT 9999 BKN023 SCT250 14/10 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "12:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "11:30 AM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "11",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081130Z 13007KT 9999 BKN018 SCT250 16/10 Q1026 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16", "tempi":"61","dewptm":"10", "dewpti":"51","hum":"60","wspdm":"18.5", "wspdi":"11.5","wgustm":"", "wgusti":"","wdird":"130","wdire":"SE","vism":"50", "visi":"31","pressurem":"1026", "pressurei":"30.29","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08124 07650 02584 51310 10161 20104 30219 40257 58008 60001 84202 333 60007 84821 83075 90710 91113 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "1:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081200Z 13010KT 9999 SCT021 SCT250 16/10 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "1:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "12:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "12",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081230Z 15010KT 9999 SCT025 BKN260 16/10 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16", "tempi":"61","dewptm":"10", "dewpti":"50","hum":"57","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"160","wdire":"SSE","vism":"50", "visi":"31","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08134 07650 22584 51607 10162 20098 30216 40254 56016 82202 333 60005 82826 85076 90710 91113 93100" },
+		{
+		"date": {
+		"pretty": "2:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081300Z 16007KT 120V190 9999 FEW026 BKN260 16/10 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "2:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "1:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "13",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081330Z 15010KT 9999 FEW030 BKN260 16/10 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16", "tempi":"61","dewptm":"10", "dewpti":"50","hum":"59","wspdm":"16.7", "wspdi":"10.4","wgustm":"", "wgusti":"","wdird":"150","wdire":"SSE","vism":"50", "visi":"31","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08144 07650 22584 61509 10160 20101 30210 40248 56018 82202 333 60005 82830 86076 90710 91114 93100" },
+		{
+		"date": {
+		"pretty": "3:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081400Z 15009KT 9999 FEW030 BKN260 16/10 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "3:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "2:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "14",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"10.0", "dewpti":"50.0","hum":"68","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081430Z 15010KT 9999 FEW030 BKN260 16/10 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15", "tempi":"59","dewptm":"10", "dewpti":"51","hum":"67","wspdm":"20.4", "wspdi":"12.7","wgustm":"", "wgusti":"","wdird":"140","wdire":"SE","vism":"50", "visi":"31","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08154 07650 22584 61411 10151 20105 30209 40248 56010 81102 333 60007 81826 86076 90710 91115 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "4:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"11.0", "dewpti":"51.8","hum":"77","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081500Z 14011KT 9999 FEW026 BKN260 15/11 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "4:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "3:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "15",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081530Z 14009KT 9999 FEW023 BKN260 14/10 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14", "tempi":"57","dewptm":"10", "dewpti":"50","hum":"71","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"150","wdire":"SSE","vism":"50", "visi":"31","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08164 07650 22584 71506 10137 20101 30209 40248 56007 81102 333 60005 81823 87076 90710 91114 93100" },
+		{
+		"date": {
+		"pretty": "5:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"10.0", "dewpti":"50.0","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081600Z 15006KT 9999 FEW023 BKN260 14/10 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "5:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "4:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "16",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"9.0", "dewpti":"48.2","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081630Z 14006KT 9999 FEW023 BKN260 13/09 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"48","hum":"74","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"120","wdire":"ESE","vism":"35", "visi":"22","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08174 07650 22581 51207 10121 20089 30210 40249 55000 81102 333 60005 81821 85076 90710 91110 93100" },
+		{
+		"date": {
+		"pretty": "6:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"120","wdire":"ESE","vism":"10.0", "visi":"6.2","pressurem":"1024", "pressurei":"30.24","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081700Z 12007KT 9999 FEW021 BKN260 12/09 Q1024 NOSIG" },
+		{
+		"date": {
+		"pretty": "6:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "5:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "17",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"120","wdire":"ESE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081730Z 12007KT 9999 FEW021 BKN260 12/09 Q1025 BECMG BKN015" },
+		{
+		"date": {
+		"pretty": "7:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11", "tempi":"52","dewptm":"8", "dewpti":"47","hum":"77","wspdm":"9.3", "wspdi":"5.8","wgustm":"", "wgusti":"","wdird":"120","wdire":"ESE","vism":"30", "visi":"19","pressurem":"1025", "pressurei":"30.28","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08184 07650 02980 41205 10109 20083 30213 40252 53004 60002 80002 333 10165 20108 60007 84071 90710 91109 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "7:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"120","wdire":"ESE","vism":"-9999.0", "visi":"-9999.0","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081800Z 12005KT CAVOK 11/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "7:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "6:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "18",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"10.0", "dewpti":"50.0","hum":"88","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"-9999.0", "visi":"-9999.0","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081830Z 10007KT CAVOK 12/10 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"48","hum":"74","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"100","wdire":"East","vism":"30", "visi":"19","pressurem":"1026", "pressurei":"30.29","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08194 07650 22980 61007 10122 20090 30217 40256 53008 80002 333 60005 86074 90710 91112 93100" },
+		{
+		"date": {
+		"pretty": "8:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"-9999.0", "visi":"-9999.0","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081900Z 10007KT CAVOK 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "8:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "7:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "19",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"16.7", "wspdi":"10.4","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"-9999.0", "visi":"-9999.0","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 081930Z 09009KT CAVOK 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"54","dewptm":"9", "dewpti":"48","hum":"74","wspdm":"13.0", "wspdi":"8.1","wgustm":"", "wgusti":"","wdird":"100","wdire":"East","vism":"30", "visi":"19","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08204 07650 22580 71007 10123 20089 30219 40258 51009 84502 333 60005 84625 86071 90710 91114 93100" },
+		{
+		"date": {
+		"pretty": "9:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082000Z 10007KT 9999 SCT025 BKN210 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "9:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "8:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "20",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"9.0", "dewpti":"48.2","hum":"82","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082030Z 09007KT 9999 SCT025 BKN210 12/09 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"53","dewptm":"8", "dewpti":"47","hum":"73","wspdm":"7.4", "wspdi":"4.6","wgustm":"", "wgusti":"","wdird":"110","wdire":"ESE","vism":"30", "visi":"19","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08214 07650 22580 71104 10118 20083 30219 40258 51006 85502 333 60007 85625 85071 90710 91111 93100 555 60005" },
+		{
+		"date": {
+		"pretty": "10:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"8.0", "dewpti":"46.4","hum":"77","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"110","wdire":"ESE","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082100Z 11005KT 9999 BKN025 BKN210 12/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "10:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "9:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "21",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"8.0", "dewpti":"46.4","hum":"77","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082130Z 08005KT 050V120 9999 BKN025 BKN210 12/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "23",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12", "tempi":"53","dewptm":"8", "dewpti":"46","hum":"71","wspdm":"11.1", "wspdi":"6.9","wgustm":"", "wgusti":"","wdird":"90","wdire":"East","vism":"50", "visi":"31","pressurem":"1026", "pressurei":"30.30","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"", "precipi":"","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"AAXX 08224 07650 22584 70906 10116 20079 30220 40259 52003 86502 333 60005 86626 85071 90710 91110 93100" },
+		{
+		"date": {
+		"pretty": "11:00 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "23",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:00 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"8.0", "dewpti":"46.4","hum":"77","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082200Z 09006KT 9999 BKN026 BKN210 12/08 Q1025 NOSIG" },
+		{
+		"date": {
+		"pretty": "11:30 PM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "23",
+		"min": "30",
+		"tzname": "Europe/Paris"
+		},
+		"utcdate": {
+		"pretty": "10:30 PM GMT on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "22",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"8.0", "dewpti":"46.4","hum":"77","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"10.0", "visi":"6.2","pressurem":"1025", "pressurei":"30.27","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR LFML 082230Z 08005KT 9999 BKN026 12/08 Q1025 NOSIG" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 AM CET on January 08, 2014",
+		"year": "2014",
+		"mon": "01",
+		"mday": "08",
+		"hour": "00",
+		"min": "00",
+		"tzname": "Europe/Paris"
+		},
+		"fog":"0","rain":"0","snow":"0","snowfallm":"", "snowfalli":"","monthtodatesnowfallm":"", "monthtodatesnowfalli":"","since1julsnowfallm":"", "since1julsnowfalli":"","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"0","tornado":"0","meantempm":"13", "meantempi":"56","meandewptm":"9", "meandewpti":"48","meanpressurem":"1025.07", "meanpressurei":"30.27","meanwindspdm":"11", "meanwindspdi":"7","meanwdire":"East","meanwdird":"94","meanvism":"11.7", "meanvisi":"7.3","humidity":"77","maxtempm":"16", "maxtempi":"61","mintempm":"10", "mintempi":"51","maxhumidity":"88","minhumidity":"57","maxdewptm":"11", "maxdewpti":"52","mindewptm":"8", "mindewpti":"46","maxpressurem":"1027", "maxpressurei":"30.33","minpressurem":"1024", "minpressurei":"30.24","maxwspdm":"20", "maxwspdi":"13","minwspdm":"6", "minwspdi":"4","maxvism":"30.0", "maxvisi":"19.0","minvism":"10.0", "minvisi":"6.2","gdegreedays":"6","heatingdegreedays":"9","coolingdegreedays":"0","precipm":"0.0", "precipi":"0.00","precipsource":"3Or6HourObs","heatingdegreedaysnormal":"","monthtodateheatingdegreedays":"","monthtodateheatingdegreedaysnormal":"","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"","since1julheatingdegreedaysnormal":"","coolingdegreedaysnormal":"","monthtodatecoolingdegreedays":"","monthtodatecoolingdegreedaysnormal":"","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"","since1jancoolingdegreedaysnormal":"" }
+		]
+	}
+}
